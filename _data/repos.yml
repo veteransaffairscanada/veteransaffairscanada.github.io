@@ -1,14 +1,8 @@
 en:
-- name: track-web
-  description: Report results
-  url: https://github.com/cds-snc/track-web
-- name: tracker
-  description: Scan domains
-  url: https://github.com/cds-snc/tracker
+- name: vac-benefits-directory
+  description: application code
+  url: https://github.com/cds-snc/vac-benefits-directory
 fr:
-- name: track-web
-  description: Rapport des résultats
-  url: https://github.com/cds-snc/track-web
-- name: tracker
-  description: Analyse des domaines
-  url: https://github.com/cds-snc/tracker
+- name: vac-benefits-directory
+  description: application code
+  url: https://github.com/cds-snc/vac-benefits-directory
