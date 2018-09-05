@@ -1,6 +1,6 @@
 # VAC Benefits Directory Alpha Documentation
 
-*Track web security compliance* is a web-based application that scans Government of Canada websites and web services and reports on their web security. The application is currently available for Government of Canada employees and can be found at [https-everywhere.canada.ca](https://https.canada.ca). This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/track-web-security-compliance](https://cds-snc.github.io/track-web-security-compliance).
+The benefits directory is a web-based application that helps Veterans find relevant benefits. The application is currently in Alpha and can be found at [cdsvacpoc.azurewebsites.net/](https://cdsvacpoc.azurewebsites.net/). This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/vac-benefits-directory-documentation](https://cds-snc.github.io/vac-benefits-directory-documentation).
 
 ## Editing the documentation
 

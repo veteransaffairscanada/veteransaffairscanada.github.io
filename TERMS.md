@@ -1,16 +1,3 @@
-As a work of the United States Government, this package is in the
-public domain within the United States. Additionally, we waive
-copyright and related rights in the work worldwide through the CC0 1.0
-Universal public domain dedication.
-
-Software source code previously released under an open source license and then
-modified by CFPB staff is considered a "joint work" (see 17 USC § 101); it is
-partially copyrighted, partially public domain, and as a whole is protected by
-the copyrights of the non-government authors and must be released according to
-the terms of the original open-source license.
-
-For further details, please see the CFPB [Source Code Policy][policy].
-
 
 ## CC0 1.0 Universal Summary
 
@@ -23,7 +10,7 @@ the public domain by waiving all of his or her rights to the work worldwide
 under copyright law, including all related and neighboring rights, to the
 extent allowed by law.
 
-You can copy, modify, distribute and perform the work, even for commercial 
+You can copy, modify, distribute and perform the work, even for commercial
 purposes, all without asking permission. See Other Information below.
 
 ### Other Information
@@ -45,4 +32,3 @@ author or the affirmer.
 
 * [Respond.js](https://github.com/scottjehl/Respond) by Scott Jehl, licensed under the MIT license.
 * [The HTML5 Shiv](https://github.com/aFarkas/html5shiv), dual licensed under the MIT or GPL Version 2 licenses.
-* 
