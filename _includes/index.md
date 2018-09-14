@@ -1,6 +1,10 @@
 ## Home
 
-Homepage info.
+The Veterans Affairs Canada (VAC) benefits directory is a web-based application that guides Veterans, their families, and relevant organizations to discover VAC-provided benefits that are relevant to their needs. This open source application was built by the Canadian Digital Service and Veterans Affairs Canada, and is in the public domain.
+
+The application is currently in alpha and can be found at [https://cdsvacpoc.azurewebsites.net](https://cdsvacpoc.azurewebsites.net).
+
+This companion documentation holds the [history and purpose]({{ site.baseurl }}/background) of this product, information on the user research and testing conducted, and methods for content creation. It also has a [feature overview]({{ site.baseurl }}/features) and a [technical overview]({{ site.baseurl }}/technical), and instructions on [contributing]({{ site.baseurl }}/contributing) to the code.
 
 {% if site.repos %}
   {% include repositories.html %}

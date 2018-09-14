@@ -1,24 +1,33 @@
 en:
-  home: 
+  home:
     name: "Home"
     url: "/home/"
   background:
     name: "Background"
     url: "/background/"
+  research:
+    name: "Research"
+    url: "/research/"
+  content:
+    name: "Content"
+    url: "/content/"
+  user-testing:
+    name: "User experience and usability testing"
+    url: "/user-experience/"
   features:
     name: "Features"
     url: "/features/"
-  code-and-repositories:
-    name: "Code and repositories"
-    url: "/code-and-repositories"
+  technical:
+    name: "Technical overview"
+    url: "/technical/"
   contributing:
     name: "Contributing and open source"
     url: "/contributing/"
   contact:
     name: "Contact"
-    url: "/contact"
+    url: "/contact/"
 fr:
-  home: 
+  home:
     name: "Accueil"
     url: "/accueil/"
   background:
