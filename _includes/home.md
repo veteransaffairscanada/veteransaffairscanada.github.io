@@ -2,7 +2,7 @@ The Veterans Affairs Canada (VAC) benefits directory is a web-based application 
 
 The application is currently in alpha and can be found at [https://cdsvacpoc.azurewebsites.net](https://cdsvacpoc.azurewebsites.net).
 
-This companion documentation holds the [history and purpose]({{ site.baseurl }}/background) of this product, information on the user research and testing conducted, and methods for content creation. It also has a [feature overview]({{ site.baseurl }}/features) and a [technical overview]({{ site.baseurl }}/technical), and instructions on [contributing]({{ site.baseurl }}/contributing) to the code.
+This companion documentation holds the [history and purpose]({{ site.baseurl }}/background) of this product, information on the [user research]({{ site.baseurl }}/research) and [usability testing]({{ site.baseurl }}/user-experience) conducted, and methods for [content creation]({{ site.baseurl }}/content). It also has a [feature overview]({{ site.baseurl }}/features) and a [technical overview]({{ site.baseurl }}/technical), and instructions on [contributing]({{ site.baseurl }}/contributing) to the code.
 
 {% if site.repos %}
   {% include repositories.html %}
