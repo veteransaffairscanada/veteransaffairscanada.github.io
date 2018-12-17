@@ -8,7 +8,7 @@ trans_url: "/codes-et-referentiels/"
 
 **Overview**
 
-The *VAC Benefits Finder* is a web application developed using the `Next.js` framework. It will be referred to as *the App* in the following.
+*Find benefits and services* is a web application developed using the `Next.js` framework. It will be referred to as *the App* in the following.
 
 Benefits Data associated with *the App* is stored using `Airtable`, a SaaS product that serves as both a relational database and content management system. *The App* reads data from and in rare cases (e.g. when a user submits feedback), writes data to `Airtable` via a web API.
 

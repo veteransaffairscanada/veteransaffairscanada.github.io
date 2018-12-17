@@ -1,5 +1,5 @@
 en:
-  homepage-tag-line: "Helping Veterans find relevant benefits"
+  homepage-tag-line: "Helping Veterans find relevant benefits and confidently take their next steps."
   cds-snc: "Canadian Digital Service"
   cds-snc-url: "https://digital.canada.ca"
   tbs-sct: "Treasury Board of Canada Secretariat"
@@ -9,12 +9,12 @@ en:
   maintained-by: "and is maintained by the"
   contribute: "Contribute to this documentation"
   repo: "Repositories"
-  learn-more: "Learn more about the repositories in"
-  code-and-repo: "Code and repositories"
-  code-and-repo-slug: "/code-and-repositories/"
+  learn-more: "Learn more about the repositories in the "
+  code-and-repo: "technical overview"
+  code-and-repo-slug: "/technical/"
   language: "Français"
   homepage-slug: "/home/"
-  site-name: "VAC Benefits Directory Alpha Documentation"
+  site-name: "'Find benefits and services' documentation"
 fr:
   homepage-tag-line: "Helping Veterans find relevant benefits - FR"
   cds-snc: "Service numérique canadien"
