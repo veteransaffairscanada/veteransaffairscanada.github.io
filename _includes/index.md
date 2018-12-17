@@ -1,6 +1,6 @@
 ## Home
 
-The Veterans Affairs Canada (VAC) benefits directory is a web-based application that guides Veterans, their families, and relevant organizations to discover VAC-provided benefits that are relevant to their needs. This open source application was built by the Canadian Digital Service and Veterans Affairs Canada, and is in the public domain.
+*Find benefits and services*  is a web-based application that guides Veterans, their families, and relevant organizations to discover VAC-provided benefits that are relevant to their needs. This open source application was built by the Canadian Digital Service and Veterans Affairs Canada, and is in the public domain.
 
 The application is currently in alpha and can be found at [https://cdsvacpoc.azurewebsites.net](https://cdsvacpoc.azurewebsites.net).
 

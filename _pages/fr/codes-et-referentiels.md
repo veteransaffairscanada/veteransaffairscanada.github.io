@@ -3,7 +3,7 @@ layout: page
 title:  "Codes et référentiels"
 lang: fr
 permalink: "/codes-et-referentiels/"
-trans_url: "/code-and-repositories/"
+trans_url: "/technical/"
 ---
 
 ##  Comment le produit fonctionne

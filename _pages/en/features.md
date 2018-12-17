@@ -6,7 +6,7 @@ permalink: "/features/"
 trans_url: "/fonctions/"
 ---
 
-The product includes several features in service of the product goal: to help Veterans and their families find relevant benefits and confidently take the next steps. Feature development is informed by research and iterated through testing and design insights.
+*Find benefits and services* includes several features in service of the product goal: to help Veterans and their families find relevant benefits and confidently take the next steps. Feature development is informed by research and iterated through testing and design insights.
 
 The product features can be divided into three elements: the guided experience, the benefits directory, and information for next steps.
 
