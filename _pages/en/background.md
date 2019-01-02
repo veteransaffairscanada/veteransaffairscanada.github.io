@@ -30,7 +30,7 @@ The team sometimes writes blog posts about our work:
 * [Building a research plan with five simple questions](https://medium.com/@canadiandigitalservice/building-a-research-plan-with-five-simple-questions-c48b17d22041) by Mithula Naik, Senior Design Researcher
 * [Moving content from code to cloud](https://medium.com/@canadiandigitalservice/moving-content-from-code-to-cloud-d5ad0f34ce20) by Steve Astels and Stephen McMurtry, Developers
 
-Footnotes:
+**Footnotes:**
 
 [^1]: [http://www.veterans.gc.ca/eng/about-us/statistics/summary](http://www.veterans.gc.ca/eng/about-us/statistics/summary)
 [^2]: [http://www.veterans.gc.ca/eng/about-us/statistics/summary](http://www.veterans.gc.ca/eng/about-us/statistics/summary)
