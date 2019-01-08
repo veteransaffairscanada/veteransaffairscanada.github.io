@@ -1,8 +1,8 @@
 # *Find benefits and services* documentation
 
-*Find benefits and services* is a web-based application that helps Veterans find relevant benefits. The application is currently in beta and can be found at [cdsvacpoc.azurewebsites.net/](https://cdsvacpoc.azurewebsites.net/). It is undergoing development and is not yet publicly released for use.
+*Find benefits and services* is a web-based application that helps Veterans find relevant benefits. The application is currently in beta and can be found at [cdsvacpoc.azurewebsites.net](https://cdsvacpoc.azurewebsites.net/). It is undergoing development and is not yet publicly released for use.
 
-This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/find-benefits-and-services-documentation/(https://cds-snc.github.io/find-benefits-and-services-documentation/).
+This repository contains companion documentation for the project and can be viewed at [https://cds-snc.github.io/find-benefits-and-services-documentation/](https://cds-snc.github.io/find-benefits-and-services-documentation/).
 
 ## Editing the documentation
 
