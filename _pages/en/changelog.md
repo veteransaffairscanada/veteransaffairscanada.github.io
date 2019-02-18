@@ -19,7 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ## 2019-02-15
 ### Added
 * Feedback mechanisms for people to submit general feedback, report if something went wrong, and indicate if information is useful
-* Operational stress injury (OSI) clinics has an alert saying a case manager referral is necessary
+* The benefit card for operational stress injury (OSI) clinics has an alert saying a case manager referral is necessary
 * Content to let people know that selecting multiple categories will narrow down their results
 
 ### Changed
