@@ -6,10 +6,6 @@ permalink: "/renseignements-generaux/"
 trans_url: "/background/"
 ---
 
->  « Nous essayons d’opérer un changement de culture à Anciens Combattants Canada. Au lieu qu’il incombe à l’ancien combattant d’essayer de faire des recherches et de déterminer exactement à quels programmes et services il a droit, **nous assumons cette responsabilité.**»
->
-> L’honorable Seamus O’Regan, ministre d’Anciens Combattants Canada
-
 Seulement 30 % des anciens combattants au Canada connaissent ACC,[^1] qui rend hommage aux contributions et aux sacrifices consentis par les anciens combattants et exprime la gratitude du Canada envers eux. ACC offre des avantages sociaux aux membres actuels ou anciens des Forces canadiennes et à leurs familles, notamment une aide financière, des prestations de maladie, d’invalidité et de décès. En 2017, seulement 19 % des anciens combattants canadiens les recevaient[^2].
 
 Au fil des ans, il est devenu de plus en plus difficile de comprendre le panorama des avantages destinés aux anciens combattants. Différentes sources d’information citent un nombre différent d’avantages offerts, et l’information sur la façon dont ils sont associés n’est pas claire. Les descriptions des avantages sont rédigées dans un langage compliqué et axé sur les politiques, et le personnel de première ligne d’ACC travaille fort pour en communiquer la signification réelle aux anciens combattants.
