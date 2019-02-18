@@ -6,11 +6,6 @@ permalink: "/background/"
 trans_url: "/renseignements-generaux/"
 ---
 
-> “We are trying to effect a culture change at Veterans Affairs Canada.
-Instead of the onus being on the Veteran to attempt to research and figure out exactly what programs and services they're entitled to – they are owed – **the onus is on us**.”
->
-> Hon. Seamus O’Regan, Minister of Veterans Affairs Canada
-
 Only 30% of Veterans in Canada are aware of Veterans Affairs Canada (VAC)[^1], which honours the contributions and sacrifices made by Veterans and expresses Canada’s gratitude to them. VAC offers benefits for current or former Canadian Forces members and their families, which include financial assistance, health, disability and death benefits. As of 2017, just 19% of Canadian Veterans are receiving them[^2].
 
 The Veteran benefit landscape has become more and more difficult to understand over the years. Different information sources cite a different number of available benefits and the information regarding how they are associated is unclear. Benefit descriptions are written using complicated, policy-centred language, and frontline VAC staff work hard to communicate the real meaning to Veterans.
