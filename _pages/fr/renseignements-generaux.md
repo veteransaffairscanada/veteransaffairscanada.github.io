@@ -24,6 +24,7 @@ L’équipe rédige parfois des billets de blogue sur notre travail :
 * [Faire équipe pour mieux servir les anciens combattants](https://medium.com/@servnumcanadien/faire-%C3%A9quipe-pour-mieux-servir-les-anciens-combattants-8f42fc13386a) par Ross Ferguson, chef de produit
 * [Élaborer un plan de recherche avec cinq questions simples](https://medium.com/@servnumcanadien/%C3%A9laborer-un-plan-de-recherche-avec-cinq-questions-simples-20b16f526b05) par Mithula Naik, chercheuse principale en conception
 * [Déplacer le contenu du code vers le nuage](https://medium.com/@servnumcanadien/d%C3%A9placer-le-contenu-du-code-vers-le-nuage-bcc48848695e) par Steve Astels and Stephen McMurtry, développeurs
+* [Se rencontrer en vrai bâtit la confiance d’une équipe](https://medium.com/@servnumcanadien/se-rencontrer-en-vrai-b%C3%A2tit-la-confiance-dune-%C3%A9quipe-a2630048e462) par Allison Rothmel, consultante à Anciens Combattants Canada
 
 **Notes de bas de page :**
 

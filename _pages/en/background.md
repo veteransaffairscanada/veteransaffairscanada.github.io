@@ -24,6 +24,7 @@ The team sometimes writes blog posts about our work:
 * [Teaming up to deliver better outcomes for Veterans](https://medium.com/@canadiandigitalservice/teaming-up-to-deliver-better-outcomes-for-veterans-f70ef4b1d3d7) by Ross Ferguson, Product Lead
 * [Building a research plan with five simple questions](https://medium.com/@canadiandigitalservice/building-a-research-plan-with-five-simple-questions-c48b17d22041) by Mithula Naik, Senior Design Researcher
 * [Moving content from code to cloud](https://medium.com/@canadiandigitalservice/moving-content-from-code-to-cloud-d5ad0f34ce20) by Steve Astels and Stephen McMurtry, Developers
+* [How meeting face to face builds team trust](https://medium.com/@canadiandigitalservice/how-meeting-face-to-face-builds-team-trust-e2bcb4d98159) by Allison Rothmel, Consultant at Veterans Affairs Canada
 
 **Footnotes:**
 
