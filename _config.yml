@@ -41,7 +41,7 @@ repos:
 
 
 # Style Variables
-brand_color: "#FFCC3D"
+brand_color: "#1ca56f"
 
 # Offline caching
 offline_cache: false
