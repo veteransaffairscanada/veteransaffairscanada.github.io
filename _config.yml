@@ -21,8 +21,8 @@ baseurl: "/"
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: Canadian Digital Service
-  url: https://digital.canada.ca
+  name: Veterans Affairs Canada
+  url: https://www.veterans.gc.ca
 author2:
   name: Treasury Board of Canada Secretariat
   url: https://www.canada.ca/en/treasury-board-secretariat.html
@@ -39,7 +39,7 @@ repos:
     url: https://github.com/cds-snc/vac-benefits-directory
 
 # Style Variables
-brand_color: "#FFCC3D"
+brand_color: "#1CA56F"
 
 # Offline caching
 offline_cache: false
