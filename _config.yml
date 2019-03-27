@@ -17,7 +17,7 @@ subtitle: Helping Veterans find relevant benefits
 # When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
 # See http://jekyllrb.com/docs/github-pages/ for more info
 #baseurl: ''
-baseurl: '/find-benefits-and-services-documentation'
+baseurl: "/find-benefits-and-services-documentation"
 
 # Author/Organization info to be displayed in the templates
 author:
@@ -31,14 +31,12 @@ author2:
 logourl:
 logoalt:
 
-
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: vac-benefits-directory
-  description: Explore benefits
-  url: https://github.com/cds-snc/vac-benefits-directory
-
+  - name: vac-benefits-directory
+    description: Explore benefits
+    url: https://github.com/cds-snc/vac-benefits-directory
 
 # Style Variables
 brand_color: "#1ca56f"
