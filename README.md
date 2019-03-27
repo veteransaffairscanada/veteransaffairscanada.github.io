@@ -1,6 +1,7 @@
-# *Find benefits and services* documentation
+# _Find benefits and services_ documentation
 
-*Find benefits and services* is a web-based application that helps Veterans find relevant benefits. The application is currently in beta and can be found at [https://benefits-prestations.veterans.gc.ca/](https://benefits-prestations.veterans.gc.ca/). It is undergoing development and is not yet publicly released for use.
+_Find benefits and services_ is a web-based application that helps Veterans find relevant benefits. The application is currently in beta and can be found at [benefits-prestations.veterans.gc.ca](https://benefits-prestations.veterans.gc.ca/). It is undergoing development and is not yet publicly released for use.
+
 
 This repository contains companion documentation for the project and can be viewed at [https://veteransaffairscanada.github.io/](https://veteransaffairscanada.github.io/).
 
@@ -23,8 +24,7 @@ bundle exec jekyll serve --watch --baseurl ''
 
 Open it up in your browser: <http://localhost:4000/>
 
-
-### _config.yml
+### \_config.yml
 
 Options within the `_config.yml` file allow you to control some of the site's
 content and left column navigation.
