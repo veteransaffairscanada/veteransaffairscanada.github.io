@@ -2,6 +2,7 @@
 
 _Find benefits and services_ is a web-based application that helps Veterans find relevant benefits. The application is currently in beta and can be found at [benefits-prestations.veterans.gc.ca](https://benefits-prestations.veterans.gc.ca/). It is undergoing development and is not yet publicly released for use.
 
+
 This repository contains companion documentation for the project and can be viewed at [https://veteransaffairscanada.github.io/](https://veteransaffairscanada.github.io/).
 
 ## Editing the documentation
