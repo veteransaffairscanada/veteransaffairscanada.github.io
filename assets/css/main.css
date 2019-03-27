@@ -259,7 +259,7 @@ section:before {
 
 header {
     width: 100%;
-    border-bottom: 4px solid {{ site.brand_color }};
+    border-bottom: 4px solid #1ca56f;
     background-color: #fff;
     padding: 2em 0;
 }
