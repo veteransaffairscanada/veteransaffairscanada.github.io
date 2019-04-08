@@ -10,10 +10,33 @@ _Find benefits and services_ will have consistent updates throughout the beta ph
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This product does not adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
-* Add content to the saved list so people understand what it's for and its limitations
-* Update eligibility paths of some benefit cards
-* Header and footer that matches veterans.gc.ca 
+## 2019-03-29
+### Changed
+* Added UTM tags to outgoing links in the benefit cards for tracking
+
+### Fixed
+* Updated alert for the Treatment Benefits card
+* Updated ‘Learn more’ links for the Pension for Life benefit cards
+* Fixed some style inconsistencies
+
+### Removed
+* Remove alert for Vocational assistance card
+
+
+## 2019-03-15
+### Changed
+* Reintroduced the left hand persistent Edit Selections menu to the Directory page
+* Added benefit cards for Pension for Life
+* Added a distinct remove button to the saved list for clarity
+
+### Fixed
+* Header and footer that matches veterans.gc.ca
+* Made logic updates to improve the results generated
+
+### Removed
+* Removed the ‘Service related health injury’ question
+* Removed paths related to ‘Still serving’
+
 
 ## 2019-02-28
 ### Changed
@@ -31,7 +54,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Removed
 * The summary page that confirmed users' selections before showing the results (users are now taken directly to their results)
-* Feature for users to locate the closets VAC office (the app now directs users to VAC's contact page)
+* Feature for users to locate the closest VAC office (the app now directs users to VAC's contact page)
 
 
 ## 2019-02-15
