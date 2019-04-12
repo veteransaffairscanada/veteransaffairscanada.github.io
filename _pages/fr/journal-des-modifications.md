@@ -10,11 +10,33 @@ L’outil _Rechercher des avantages et des services_ sera régulièrement mis à
 
 Le format de cette page s’inspire de celui de [Tenez un changelog](https://keepachangelog.com/fr/1.0.0/). Nous ne suivons pas les règles de la [gestion sémantique de version](https://semver.org/lang/fr/) pour ce produit.
 
-## Fonctionnalités non intégrées
-* Modification de l’IU de l’appli pour la rendre conforme à la présentation du site veterans.gc.ca.
-* Remplacement de la page affichant le récapitulatif des sélections par une animation à chargement rapide, de sorte que les utilisateurs obtiennent leurs résultats plus rapidement.
-* Ajout de contenu à la liste sauvegardée, afin que les utilisateurs puissent en comprendre la fonction et les limites.
-* Modification des chemins d’admissibilité relatifs à certaines fiches d’avantages.
+## 2019-03-29
+### Ajouté
+Ajouté des balises UTM aux liens sortants dans les cartes de prestation aux fins de suivi
+
+### Corrigé
+Mis à jour l’alerte pour la carte des avantages médicaux
+Mis à jour les liens de « Pour en savoir davantage » pour les cartes de prestation de la pension à vie
+Réglé certaines incohérences de style
+
+### Supprimé
+Supprimé l’alerte pour la carte d’assistance professionnelle
+
+
+## 2019-03-15
+### Ajouté
+Remis le menu de gauche « Modifier les sélections » sur la page du répertoire
+Ajouté des cartes de prestation pour la pension à vie
+Ajouté un bouton « Retirer » à la liste enregistrée aux fins de clarté
+
+### Corrigé
+En-tête et pied de page qui correspondent à veterans.gc.ca
+Apporté des mises à jour au logiciel afin d’améliorer les résultats obtenus
+
+### Supprimé
+Supprimé la question sur « Problème de santé lié au service »
+Supprimé les parcours liés à « Encore en service »
+
 
 ## 2019-02-15
 ### Ajouté
