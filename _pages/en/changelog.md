@@ -11,7 +11,7 @@ _Find benefits and services_ will have consistent updates throughout the beta ph
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This product does not adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## 2019-03-29
-### Changed
+### Added
 * Added UTM tags to outgoing links in the benefit cards for tracking
 
 ### Fixed
@@ -24,7 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
 ## 2019-03-15
-### Changed
+### Added
 * Reintroduced the left hand persistent Edit Selections menu to the Directory page
 * Added benefit cards for Pension for Life
 * Added a distinct remove button to the saved list for clarity
