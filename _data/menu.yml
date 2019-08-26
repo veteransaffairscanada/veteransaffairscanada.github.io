@@ -2,27 +2,6 @@ en:
   home:
     name: "Home"
     url: "/home/"
-  background:
-    name: "Background"
-    url: "/background/"
-  research:
-    name: "Research"
-    url: "/research/"
-  content:
-    name: "Content"
-    url: "/content/"
-  user-testing:
-    name: "User experience and usability testing"
-    url: "/user-experience/"
-  features:
-    name: "Features"
-    url: "/features/"
-  technical:
-    name: "Technical overview"
-    url: "/technical/"
-  contributing:
-    name: "Contributing and open source"
-    url: "/contributing/"
   changelog:
     name: "Changelog"
     url: "/changelog/"
@@ -33,27 +12,6 @@ fr:
   home:
     name: "Accueil"
     url: "/accueil/"
-  background:
-    name: "Renseignements généraux"
-    url: "/renseignements-generaux/"
-  research:
-    name: "Recherche"
-    url: "/recherche/"
-  content:
-    name: "Contenu"
-    url: "/contenu/"
-  user-testing:
-    name: "Expérience utilisateur et test d’utilisabilité"
-    url: "/experience-utilisateur/"
-  features:
-    name: "Fonctions"
-    url: "/fonctions/"
-  technical:
-    name: "Aperçu technique"
-    url: "/technique/"
-  contributing:
-    name: "Contribution et source ouverte"
-    url: "/contribution/"
   changelog: 
     name: "Journal des modifications"
     url: "/journal-des-modifications/"
